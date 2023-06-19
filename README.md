@@ -7,5 +7,7 @@ i love 🐱, 😻 , 🎮
 i love 🧉, 🇦🇷, 🍎
 
 mi ultima linea en un repositorio
+
 nueva actividad
+
 finalizando con github
