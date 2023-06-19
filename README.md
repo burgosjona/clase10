@@ -10,4 +10,4 @@ mi ultima linea en un repositorio
 
 nueva actividad
 
-finalizando con github
+finalizando con github.
